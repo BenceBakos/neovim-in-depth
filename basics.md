@@ -2,8 +2,8 @@
 # Basics
 
 When you open neovim, and type in `:help<enter>`, you find a detailed guide about it's usage, I highly recommend you check it out as well.
-My introduction will contain more details about the configuration, and only the more essential features of text editing. 
-The best way of mastering neovim is to use it, and gradually improve your workflow with it's features.
+My introduction will contain more details about the configuration, and only the most essential features of text editing. 
+The best way of mastering neovim is to use it, and gradually improve your workflow with it's features. For this process, I'll provide you core knowledge at the beginning of this document, and more advanced features in the end.
 
 ## Configuration
 
@@ -14,6 +14,9 @@ Later, you will use more than one file for configuration, you have to put them i
 
 Create `~/.config/nvim/init.lua`, and open it with your currently used text editor.
 
+Open up a neovim instance, and experiment with everything I mention here, gradually improve your configuration as we proceed!
+
+## UI
 
 ## Command-line commands
 
