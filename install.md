@@ -2,6 +2,8 @@
 # Neovim installation
 The community is moving fast, keep up with new releases!
 
+[Official documentation](https://github.com/neovim/neovim/wiki/Installing-Neovim)
+
 ## Debian-based
 The apt package is usually really old, to get the latest, you have to do:
 ```

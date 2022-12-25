@@ -44,4 +44,4 @@ If you have doubt about what is neovim capable of then look at some examples:
 
 These are the shiny examples, but the configuration best for you, can only come from you. Always keep an eye out for other's favoured setup, and bring the value back to your Neovim experience.
 
-[Continue with basics](basics.md)
+[Continue with installation](install.md)
