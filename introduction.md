@@ -21,7 +21,7 @@ When you look at the [unix desktop rice community](https://www.reddit.com/r/unix
 ## This is a linux thing, isn't it?
 
 Yes and No. You can install [Neovim on windows](https://github.com/neovim/neovim/wiki/Installing-Neovim#windows), but that's not it's natural environment.
-I've seen many people using it on [Mac](https://github.com/neovim/neovim/wiki/Installing-Neovim#macos--os-x), it is also a `*nix` system after all.
+I've seen many people using it on [Mac](https://github.com/neovim/neovim/wiki/Installing-Neovim#macos--os-x), it is a `*nix` system after all.
 
 Back-end developers love linux because it's reliable, has a ton of essential features and most important of all, they ship software to linux anyways. Using a system similar to one you produce software for, is a great advantage, we can all agree on that. The great thing about vi is it's on every linux box out there by default. When you get used to it's way, and pair it with a good understanding of the command-line, manipulation of those systems becomes a no-brainer.
 
