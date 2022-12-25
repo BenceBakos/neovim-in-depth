@@ -3,8 +3,6 @@
 ## VI/VIM/Neovim is hard
 Let's face it, learning VI-like editors is hard. It feels like an enormous amount of time investment for seemingly no big improvement. The rest of this page will contain reasons why it's worth the effort.
 
-
-
 ## Immortal VI
 
 VI like text editors has a great and rich history, dating back to the 80s unix systems. Some form of it always existed and maintained by a dedicated core community. Most famous example is (VIM)[https://www.vim.org/]. The core concept always remains, consisting of the weirdly effective way of manipulating text plus some degree of customization introduced by vim.
