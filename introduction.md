@@ -5,8 +5,8 @@ Let's face it, learning VI-like editors is hard. It feels like an enormous amoun
 
 ## Immortal VI
 
-VI like text editors has a great and rich history, dating back to the 80s unix systems. Some form of it always existed and maintained by a dedicated core community. Most famous example is (VIM)[https://www.vim.org/]. The core concept always remains, consisting of the weirdly effective way of manipulating text plus some degree of customization introduced by vim.
-Neovim is a C rewrite of vim, with asynchronous operations, additional features like (LSP)[lsp.md].
+VI like text editors has a great and rich history, dating back to the 80s unix systems. Some form of it always existed and maintained by a dedicated core community. Most famous example is [VIM](https://www.vim.org). The core concept always remains, consisting of the weirdly effective way of manipulating text plus some degree of customization introduced by vim.
+Neovim is a C rewrite of vim, with asynchronous operations, additional features like [LSP](lsp.md).
 
 VI style text editing is extremely powerful, some form of it will always exist, because those who knows it's value will keep it alive.
 
